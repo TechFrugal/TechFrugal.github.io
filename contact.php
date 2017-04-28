@@ -113,26 +113,26 @@ if(isset($_POST['submitcontact']))
 					<!-- Menu-main -->
 					<div id='cssmenu' class="align-center">
 						<ul>
-						   <li><a href='index.html'><span>Home</span></a></li>
+						   <li class="active"><a href='index.html'><span>Home</span></a></li>
 						   <li class=' has-sub'><a href='#'><span>Categories</span></a>
 							  <ul >
-								 <li class='has-sub'><a href='#'><span>Item 1</span></a>
+								 <li class='has-sub'><a href='#'><span>New Cat</span></a>
 									<ul>
-									   <li><a href='#'><span>Sub Item</span></a></li>
-									   <li class='last'><a href='#'><span>Sub Item</span></a></li>
+									   <li><a href='index.html'><span>New Page</span></a></li>
+									   <li class='last'><a href='index.html'><span>Newest Page</span></a></li>
 									</ul>
 								 </li>
-								 <li class='has-sub'><a href='#'><span>Item 2</span></a>
+								 <li class='has-sub'><a href='#'><span>Newest Cat</span></a>
 									<ul>
-									   <li><a href='#'><span>Sub Item</span></a></li>
-									   <li class='last'><a href='#'><span>Sub Item</span></a></li>
+									   <li><a href='#'><span>New New </span></a></li>
+									   <li class='last'><a href='#'><span> Newest New </span></a></li>
 									</ul>
 								 </li>
 							  </ul>
 						   </li>
 						   <li><a href='single.html'><span>About</span></a></li>
 						   <li><a href='archive.html'><span>Blog</span></a></li>
-						   <li class='last active'><a href='contact.html'><span>Contacts</span></a></li>
+						   <li class='last'><a href='contact.html'><span>Contacts</span></a></li>
 						</ul>
 					</div>
 				</div>
