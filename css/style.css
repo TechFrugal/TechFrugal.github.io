@@ -180,8 +180,8 @@ article .entry-content ol {float: left;text-align: justify;margin: 10px 50px;lis
 /* -------------------------------------Footer--------------------------------- */
 /* ---------------------------------------------------------------------------- */
 footer{text-align: center;padding: 40px 0;border-top: 1px solid #bbb;margin-top: 40px;}
-footer a{color:#444;font-weight: bold;}
-footer a:hover{color:#bb0b0b;}
+footer a{color:#bb0b0b;font-weight: bold;}
+footer a:hover{color:#000;}
 footer .wrap-footer{color: #92907C;}
 footer .wrap-footer ul li {margin-bottom: 5px;border-bottom: 1px solid #555;padding: 10px 0 15px;}
 footer i.fa{font-size: 22px;margin-right: 8px;}

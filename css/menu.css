@@ -152,7 +152,7 @@
   height: 0;
   top: 0;
   z-index: 0;
-  background: #ffffff;
+  background: #fff;
   -webkit-transition: height .2s;
   -moz-transition: height .2s;
   -ms-transition: height .2s;
@@ -198,7 +198,7 @@
 }
 #cssmenu > ul > li:hover > a,
 #cssmenu > ul > li.active > a {
-  color: #131313;
+  color: #bb0b0b;
 }
 #cssmenu > ul > li:hover > a:after,
 #cssmenu > ul > li.active > a:after {
