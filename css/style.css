@@ -109,7 +109,7 @@ ul.link li{padding: 0;margin: 0;}
 #form-container{max-width: 360px;text-align: center;}
 #searchtext {overflow: hidden;}
 
-a.search-submit-button {background: #fff;border-bottom: 1px solid #eeeeee;border-right: 1px solid #eeeeee;border-top: 1px solid #eeeeee;color: #131313;display: block;float: right;padding: 10px;font-size: 17px;text-align: center;width: 45px;box-sizing: border-box;height: 42px;}
+a.search-submit-button {background: #fff;border-bottom: 1px solid #eeeeee;border-right: 1px solid #eeeeee;border-top: 1px solid #eeeeee;color: #bb0b0b;display: block;float: right;padding: 10px;font-size: 17px;text-align: center;width: 45px;box-sizing: border-box;height: 42px;}
 
 /* ---------------------------------------------------------------------------- */
 /* -------------------------------------Header--------------------------------- */
